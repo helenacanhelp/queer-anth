@@ -4,7 +4,7 @@
 Welcome! This repository houses a collection of all resources and assets used to develop the database and website for the Washington State Queer Poetry Anthology, a project of the Washington State Poet Laureate with support from ArtsWA, Humanities Washington, and the University of Washington iSchool. The site is under continuous development by **Drew Ahlberg, Helena Farrell, and Kate Skow**.
 
 **Website**
-- Site sample pages
+- [Omeka.net site](https://waqueeranth.omeka.net/) 
 - User manual
 - Handover documentation
 
