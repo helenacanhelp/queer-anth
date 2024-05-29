@@ -1,0 +1,304 @@
+body {
+font-family:Verdana;
+}
+
+#site-title {
+padding:0;
+}
+
+.blackout-text {
+background-color:#2A2723;
+}
+
+.winter header {
+background-color:#2f3e4a;
+padding-left:0;
+}
+
+.winter body {
+color:#2A2723;
+}
+
+.winter footer {
+color:#F4E6E2;
+}
+
+.items #poem-item-type-metadata-text {
+padding-left:1.5em;
+text-indent:-1.5em;
+}
+
+.items .element-text p {
+margin:0.6em;
+}
+
+#item-citation .element-text {
+padding-left:0;
+text-indent:0;
+font-size:14px;
+}
+
+#poem-item-type-metadata-text h3, #dublin-core-description h3, #dublin-core-title h3, #dublin-core-creator h3 {
+display:none;
+}
+
+#content h1 {
+text-transform:none;
+font-size:32px;
+}
+
+p {
+line-height:1.25;
+font-size:14px;
+}
+
+#content > div {
+background-color:#F1E6E3;
+}
+
+.winter #content #primary > div {
+background-color:#F1E6E3;
+}
+
+.winter #content #sidebar > div {
+background-color:#F1E6E3;
+}
+
+.item-pagination li {
+background-color:#F1E6E3;
+}
+
+.winter #content h1 {
+color:#F1E6E3;
+}
+
+.winter nav.top {
+background-color:#2f3e4a;
+}
+
+.winter #home .sub-nav {
+background-color:#2f3e4a;
+}
+
+.winter #home nav.top a {
+color:#f4e6e2;
+}
+
+.winter #home .button {
+background-color:#e4aa0f;
+}
+
+.winter #home #content {
+background-color:#70A9D4;
+}
+
+.winter #home #content > div {
+border-color:#2385cc;
+}
+
+.winter #home #content h2 {
+border-color:#C7D1DD;
+color:#2f3e4a;
+font-weight:700;
+}
+
+.winter #home #content div h3 {
+text-transform:none;
+}
+
+.winter #home a {
+color:#d75905;
+}
+
+.winter #home #content a:hover {
+color:#ce3113;
+text-decoration:underline;
+}
+
+.winter #about .sub-nav {
+background-color:#2f3e4a;
+}
+
+.winter #about nav.top a {
+color:#f4e6e2;
+}
+
+.winter #about .button {
+background-color:#d97785;
+}
+
+.winter #about #content {
+background-color:#70a9d4;
+}
+
+.winter #about #content > div {
+border-color:#66518c;
+}
+
+.winter #about #content h2 {
+border-color:#e5d4e0;
+}
+
+.winter #about #simple-pages-breadcrumbs a {
+color:#e5d4e0;
+}
+
+.winter #tag-index .sub-nav {
+background-color:#2f3e4a;
+}
+
+.winter #tag-index nav.top a {
+color:#f4e6e2;
+}
+
+.winter #tag-index .button {
+background-color:#5C8F5A;
+}
+
+.winter #tag-index #content {
+background-color:#9E84D5;
+}
+
+.winter #tag-index #content > div {
+border-color:#635288;
+}
+
+.winter #tag-index #content h2 {
+border-color:#C3CCBA;
+}
+
+.winter #tag-index #simple-pages-breadcrumbs a {
+color:#F2E6E3;
+}
+
+.winter #tag-index a {
+color:#5C8F5A;
+}
+
+.winter #tag-index #content a:hover {
+color:#3B5D3B;
+text-decoration:underline;
+}
+
+.winter #tag-index p {
+font-size:16px;
+}
+
+.winter #content-warnings .sub-nav {
+background-color:#2f3e4a;
+}
+
+.winter #content-warnings nav.top a {
+color:#f4e6e2;
+}
+
+.winter #content-warnings .button {
+background-color:#5C8F5A;
+}
+
+.winter #content-warnings #content {
+background-color:#9E84D5;
+}
+
+.winter #content-warnings #content > div {
+border-color:#635288;
+}
+
+.winter #content-warnings #content h2 {
+border-color:#C3CCBA;
+}
+
+.winter #content-warnings #simple-pages-breadcrumbs a {
+color:#F2E6E3;
+}
+
+.winter #content-warnings p {
+font-size:16px;
+}
+
+.winter #content-warnings a {
+color:#5C8F5A;
+}
+
+.winter #content-warnings #content a:hover {
+color:#3B5D3B;
+text-decoration:underline;
+}
+
+.winter .items nav.top .sub-nav {
+background-color:#2f3e4a;
+}
+
+.winter .items nav.top a {
+color:#f4e6e2;
+}
+
+.winter .items .button {
+background-color:#e4aa0f;
+}
+
+.winter .items #content {
+background-color:#70A9D4;
+}
+
+.winter .items #content > div {
+border-color:#2385CC;
+}
+
+.winter .items #content #primary > div {
+border-color:#F1E6E3;
+}
+
+.winter .items #content #sidebar > div {
+border-color:#2385CC;
+}
+
+.winter .items #content h2 {
+border-color:#C7D1DD;
+}
+
+.winter .items #simple-pages-breadcrumbs a {
+color:#E9CCC3;
+}
+
+.winter .items a {
+color:#d75905;
+}
+
+.winter .items #content a:hover {
+color:#ce3113;
+text-decoration:underline;
+}
+
+.winter .collections nav.top .sub-nav {
+background-color:#2f3e4a;
+}
+
+.winter .collections nav.top a {
+color:#f4e6e2;
+}
+
+.winter .collections .button {
+background-color:#6BBCB8;
+}
+
+.winter .collections #content {
+background-color:#7BA378;
+}
+
+.winter .collections #content > div {
+border-color:#1F446B;
+}
+
+.winter .collections #content h2 {
+border-color:#BBD6D3;
+}
+
+.winter .collections a {
+color:#5C8F5A;
+}
+
+.winter .collections #content a:hover {
+color:#4383C6;
+text-decoration:underline;
+}
